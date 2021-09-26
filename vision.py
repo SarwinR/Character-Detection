@@ -1,7 +1,7 @@
 import cv2 as cv
 
-class Vision:
 
+class Vision:
     detector_model = None
 
     def __init__(self, model_path):

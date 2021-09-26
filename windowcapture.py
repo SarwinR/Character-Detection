@@ -2,6 +2,7 @@ import numpy as np
 import win32gui, win32ui, win32con
 
 
+# https://www.youtube.com/watch?v=WymCpVUPWQ4&t
 class WindowCapture:
 
     w = 0

@@ -1,0 +1,81 @@
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\10.jpg 6 242 196 104 127 149 149 80 76 251 60 49 63 383 183 81 87 679 164 80 126 749 266 143 160
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\11.jpg 3 342 203 79 92 430 242 74 70 601 328 105 156
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\12.jpg 2 234 179 83 84 77 135 89 120
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\13.jpg 0
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\14.jpg 2 226 286 125 149 574 271 121 153
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\15.jpg 3 398 179 127 157 589 108 140 216 783 100 87 105
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\16.jpg 1 444 180 67 87
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\17.jpg 3 347 250 123 113 455 420 217 174 603 175 171 140
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\18.jpg 2 441 292 126 136 277 262 131 102
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\19.jpg 0
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\2.jpg 1 528 282 24 32
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\20.jpg 0
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\21.jpg 0
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\22.jpg 0
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\23.jpg 1 577 249 38 69
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\24.jpg 1 529 217 65 101
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\25.jpg 1 332 190 191 193
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\26.jpg 0
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\27.jpg 0
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\28.jpg 1 607 276 98 95
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\29.jpg 1 504 193 170 137
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\3.jpg 1 603 275 39 38
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\30.jpg 1 378 145 206 215
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\31.jpg 0
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\32.jpg 0
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\33.jpg 0
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\34.jpg 0
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\35.jpg 0
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\36.jpg 0
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\37.jpg 0
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\38.jpg 3 417 250 131 229 551 277 73 119 320 328 63 80
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\39.jpg 2 465 213 153 277 338 85 87 160
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\4.jpg 0
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\40.jpg 4 298 144 65 121 382 133 87 132 503 229 101 200 299 137 70 136
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\41.jpg 2 465 183 98 173 167 368 146 187
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\42.jpg 3 781 320 51 88 849 269 52 94 914 273 45 82
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\43.jpg 0
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\44.jpg 1 431 338 51 56
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\45.jpg 0
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\46.jpg 0
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\47.jpg 0
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\48.jpg 0
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\49.jpg 0
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\5.jpg 1 583 287 38 47
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\50.jpg 1 575 369 65 93
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\51.jpg 1 578 302 38 64
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\52.jpg 2 533 285 38 56 431 295 53 67
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\53.jpg 2 561 277 60 90 636 258 35 73
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\54.jpg 1 424 245 119 177
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\55.jpg 1 369 92 85 151
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\56.jpg 2 402 309 73 127 540 331 119 214
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\57.jpg 3 284 298 99 165 477 266 43 70 14 318 73 91
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\58.jpg 2 429 275 70 79 813 273 69 90
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\59.jpg 2 244 238 112 134 388 238 109 142
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\6.jpg 2 467 234 54 94 1035 159 59 76
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\60.jpg 2 471 265 70 84 576 280 59 89
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\61.jpg 2 602 321 53 64 896 282 84 122
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\62.jpg 1 427 234 64 75
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\63.jpg 1 403 244 53 68
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\64.jpg 1 462 235 58 77
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\65.jpg 0
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\66.jpg 1 619 209 58 80
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\67.jpg 1 475 180 172 249
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\68.jpg 1 223 219 63 70
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\69.jpg 0
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\7.jpg 2 221 174 112 142 338 160 63 62
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\70.jpg 0
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\71.jpg 0
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\72.jpg 0
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\73.jpg 0
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\74.jpg 0
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\75.jpg 0
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\76.jpg 0
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\77.jpg 0
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\78.jpg 0
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\79.jpg 0
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\8.jpg 5 345 75 64 80 268 124 71 101 290 300 118 147 455 142 60 75 532 168 49 46
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\80.jpg 0
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\81.jpg 0
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\82.jpg 0
+C:\Sarwin\PythonProjects\CharacterDetectionAI\Screenshots\Destiny2\Positive\9.jpg 5 272 115 72 64 281 175 81 121 435 156 70 91 578 331 128 205 721 169 73 143

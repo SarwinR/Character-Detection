@@ -1,0 +1,9 @@
+These are the effects that are applied to the image before passing it to the AI
+
+#EFFECTS
+- Converted to Monochromatic
+- Apply Canny effect (threshold1=340, threshold2=350)
+
+#PYTHON CODE
+screenshot = cv.cvtColor(screenshot, cv.COLOR_BGR2GRAY)
+screenshot = cv.Canny(screenshot, threshold1=340, threshold2=350)

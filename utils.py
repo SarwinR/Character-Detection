@@ -1,14 +1,22 @@
 import os
 import cv2
 
+'''
+utils.methodname()
+'''
+
+
+# generate_negative_file(path)
 def generate_negative_file(folder_path):
-    with open('neg.txt', 'w') as f:
+    with open('TrainingData/Destiny2/neg.txt', 'w') as f:
         for filename in os.listdir(folder_path):
             f.write(folder_path + '\\' + filename + '\n')
 
+
+# video2frames(path, path)
 def video2frames(video_path, output_path):
     vidcap = cv2.VideoCapture(video_path)
-    success, image = vidcap.read()
+    # success, image = vidcap.read()
     count = 0
     success = True
     while success:
